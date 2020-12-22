@@ -1,5 +1,4 @@
-The ressources that I used during the #100DaysOfCode : 
-
+# The ressources that I used : 
 
 
 • OpenClassrooms 
