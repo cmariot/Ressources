@@ -27,3 +27,9 @@
 • Today I have created a game ! The computer pick a random number, you have to find it.  
 • I've also learned to use and create functions in C. 
 • I organized my GitHub Repo and added a ReadMe as a pin (create a repository with your username)
+
+## Day 5 (23/12/2020) :
+
+• Yesterday I finished the first part of my online course. Let's begin the second part today !
+•  I've learned how the C compilation works. In four steps : preprocessor, compiler, assembler and linker.
+• HTML & CSS on freecodecamp
