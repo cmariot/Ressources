@@ -7,5 +7,5 @@
 
 ##  Free courses
 
-- freeCodeCamp.org
-- OpenClassRooms
+- [freeCodeCamp.org](https://www.freecodecamp.org/learn/)
+- [OpenClassRooms](https://openclassrooms.com)
