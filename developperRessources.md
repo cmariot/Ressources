@@ -1,5 +1,6 @@
 # Free developpers ressources : 
 
-##  Course
----
+##  Free courses
+
 - freeCodeCamp.org
+- OpenClassRooms
