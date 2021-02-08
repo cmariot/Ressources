@@ -5,6 +5,11 @@
 
 - [Reference Manual & Pro Git Book](https://git-scm.com/doc)
 
+
+## Vim
+
+- [Vim Cheat Sheet](https://vim.rtorr.com/lang/fr_fr)
+
 ##  Free courses
 
 - [freeCodeCamp.org](https://www.freecodecamp.org/learn/)
